@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![IMG_20200119_145247](https://user-images.githubusercontent.com/58719291/130553185-1a5ead2e-75f4-4943-9d02-518244a05d56.jpg)
 <!--
 **nvhieu-04/nvhieu-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
