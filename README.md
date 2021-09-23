@@ -1,5 +1,6 @@
 ### Hi there 👋
-https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif?cid=ecf05e47k2m5254e59pnbb4c2oaypwqworh5wboilt0qkedj&rid=giphy.gif&ct=g
+![giphy](https://user-images.githubusercontent.com/58719291/134490722-76e40211-59f2-40d2-a41b-d92e30d874fd.gif)
+
 <!--
 **nvhieu-04/nvhieu-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
