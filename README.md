@@ -16,7 +16,7 @@
 - :nerd_face: Always `learning new things`
 
 <br>
-
+<i>Happy Coding!</i> 😊
 
 
 
@@ -57,5 +57,4 @@
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
 
 </p>
-
------
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvhieu-04)](https://github.com/nvhieu-04/github-readme-stats)
