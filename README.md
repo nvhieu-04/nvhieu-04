@@ -1,8 +1,4 @@
 <h1 align="center">Hi , I'm Nguyen Van Hieu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  
-</p>
-
 
 <br>
 
@@ -17,8 +13,13 @@
 
 <br>
 <i>Happy Coding!</i> 😊
+<p align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvhieu-04&show_icons=true&theme=outrun)
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvhieu-04&show_icons=true&theme=outrun)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvhieu-04&layout=compact)]
+<p align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvhieu-04&layout=compact)
+</p>
+
 </p>
 
