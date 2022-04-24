@@ -18,6 +18,7 @@
 <br>
 <i>Happy Coding!</i> 😊
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvhieu-04&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvhieu-04&show_icons=true&theme=outrun)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
