@@ -13,13 +13,13 @@
 
 <br>
 <i>Happy Coding!</i> 😊
-<p align="center">
+<div align="center">
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvhieu-04&show_icons=true&theme=outrun)
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvhieu-04&layout=compact)
-</p>
+</div>
 
 </p>
 
