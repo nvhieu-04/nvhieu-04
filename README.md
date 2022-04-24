@@ -13,7 +13,7 @@
 
 <br>
 <i>Happy Coding!</i> 😊
- 
-</p>
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvhieu-04&show_icons=true&theme=outrun)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvhieu-04&layout=compact)(https://github.com/nvhieu-04/github-readme-stats)
+</p>
+ 
