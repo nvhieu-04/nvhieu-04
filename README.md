@@ -12,13 +12,12 @@
 - :student: I’m currently learning: `Network` and `Communications`.
 <!-- - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing). -->
 - :nerd_face: Always `learning new things`
-- 📧:nvhieu04.uit@gmail.com
-- 🏫:19521510@gm.uit.edu.vn
+- 📧 nvhieu04.uit@gmail.com
+- 🏫 19521510@gm.uit.edu.vn
 
 <br>
 <i>Happy Coding!</i> 😊
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 </p>
-[[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvhieu-04)](https://github.com/nvhieu-04/github-readme-stats)
-[[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvhieu-04)](https://github.com/anuraghazra/github-readme-stats)
+
