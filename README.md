@@ -9,7 +9,5 @@
 <!-- - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing). -->
 - :nerd_face: Always `learning new things`
 - 📧 ngvnhieu4@gmail.com
-- 🏫 19521510@gm.uit.edu.vn
-<i>Happy Coding!</i> 😊
 </br>
 </p>
